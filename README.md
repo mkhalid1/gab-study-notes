@@ -7,7 +7,7 @@
 ## はじめに
 
 1. 苦手な科目を知る。[10分診断テスト](docs/diagnostic.md)で、言語と計数を2問ずつ解きます。
-2. 苦手な科目から直す。下の表から科目のページを開き、選択肢の線引きと手順を読んでから、練習問題5問を解きます。
+2. 苦手な科目から直す。下の表から科目のページを開き、選択肢の判断基準と手順を読んでから、練習問題5問を解きます。
 3. プランに沿って進める。[7日間プラン](docs/study-plans.md#7日間プラン)、受検案内がもう届いているなら[2日間プラン](docs/study-plans.md#2日間プラン)を使ってください。
 
 ## 基本情報
@@ -35,7 +35,7 @@
 | 英語（大意） | 50〜80語程度の英文を読み、答えを英語で選ぶ。テストセンター方式のみ | 英語の選択肢 | [受検形式](docs/versions.md#英語テストセンター方式のみ) |
 | 性格検査（OPQ） | 4つの記述から最も近いものと最も遠いものを選ぶ | 正解なし | [性格検査](docs/personality-opq.md) |
 
-言語と計数のページは同じ構成です。何を測る科目か、問題の形式、解き方の手順、落とし穴、時間配分、オリジナルの練習問題5問と解説、自己採点の表が入っています。
+言語と計数のページは同じ構成です。何を測る科目か、問題の形式、解き方の手順、ミスしやすいポイント、時間配分、オリジナルの練習問題5問と解説、自己採点の表が入っています。
 
 ## 目次
 
@@ -50,7 +50,7 @@
   - [3つの受検形式](docs/test-overview.md#3つの受検形式)
   - [結果はどう使われるか](docs/test-overview.md#結果はどう使われるか)
   - [試験全体を通して大事なこと](docs/test-overview.md#試験全体を通して大事なこと)
-  - [本番形式で練習する](docs/test-overview.md#本番形式で練習する)
+  - [時間を計って練習する](docs/test-overview.md#時間を計って練習する)
 - [10分診断テスト](docs/diagnostic.md)
   - [パートA：言語理解](docs/diagnostic.md#パートa言語理解)
   - [パートB：計数理解](docs/diagnostic.md#パートb計数理解)
@@ -62,7 +62,7 @@
   - [何を測る科目か](docs/sections/gengo.md#何を測る科目か)
   - [問題の形式](docs/sections/gengo.md#問題の形式)
   - [解き方の手順](docs/sections/gengo.md#解き方の手順)
-  - [点を落としやすい落とし穴](docs/sections/gengo.md#点を落としやすい落とし穴)
+  - [ミスしやすいポイント](docs/sections/gengo.md#ミスしやすいポイント)
   - [時間配分](docs/sections/gengo.md#時間配分)
   - [練習問題](docs/sections/gengo.md#練習問題)
   - [自己採点](docs/sections/gengo.md#自己採点)
@@ -71,7 +71,7 @@
   - [何を測る科目か](docs/sections/keisu.md#何を測る科目か)
   - [問題の形式](docs/sections/keisu.md#問題の形式)
   - [解き方の手順](docs/sections/keisu.md#解き方の手順)
-  - [点を落としやすい落とし穴](docs/sections/keisu.md#点を落としやすい落とし穴)
+  - [ミスしやすいポイント](docs/sections/keisu.md#ミスしやすいポイント)
   - [時間配分](docs/sections/keisu.md#時間配分)
   - [練習問題](docs/sections/keisu.md#練習問題)
   - [自己採点](docs/sections/keisu.md#自己採点)
@@ -127,7 +127,7 @@
 - [受検当日のチェックリスト](docs/test-day-checklist.md)
   - [前日まで](docs/test-day-checklist.md#前日まで)
   - [受検の1時間前](docs/test-day-checklist.md#受検の1時間前)
-  - [始まってすぐ](docs/test-day-checklist.md#始まってすぐ)
+  - [開始直後](docs/test-day-checklist.md#開始直後)
   - [受検中](docs/test-day-checklist.md#受検中)
   - [受検後](docs/test-day-checklist.md#受検後)
   - [本番前の最後の練習](docs/test-day-checklist.md#本番前の最後の練習)

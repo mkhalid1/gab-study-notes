@@ -30,7 +30,7 @@
 4. 概算で選択肢を絞る。1,650 ÷ 4,300 なら「4割弱」とまず見当をつけると、選択肢の多くを計算前に消せます。
 5. 最後の1〜2択だけ細かく計算する。選択肢どうしの差が小さいときだけ、小数点以下まで出します。
 
-## 点を落としやすい落とし穴
+## ミスしやすいポイント
 
 - 分母の取り違え。「AはBの何％か」と「AはBより何％多いか」は答えが違います。
 - 構成比のまま比べる。総数が違う2つのグループを％だけで比べると、実数の大小が逆になることがあります。
@@ -111,7 +111,7 @@ A. 13.0％　B. 13.5％　C. 13.7％　D. 14.0％　E. 27.0％
 
 </details>
 
-もっと解きたい方へ：PrepClubsの[無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)は、言語52問・計数40問の計92問を60分で解く本番形式です。
+もっと解きたい方へ：PrepClubsの[無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)は、言語52問・計数40問の計92問を60分で通して解くGAB形式の模試です。
 
 ## 自己採点
 
