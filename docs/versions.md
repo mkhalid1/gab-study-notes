@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[計数理解（図表の読み取り）](sections/keisu.md) · 次へ：[玉手箱との違い](tamatebako.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[計数理解（図表の読み取り）](sections/keisu.md) · 次へ：[玉手箱との違い](tamatebako.md)
+<!-- /nav:top -->
 
 # 受検形式：WebGAB・C-GAB plus・紙のGAB
 
@@ -78,4 +80,6 @@ GABには受け方が3種類あり、受ける場所、科目、監視の仕方�
 
 ---
 
-<!-- nav:bottom -->← 前へ：[計数理解（図表の読み取り）](sections/keisu.md) | 次へ：[玉手箱との違い](tamatebako.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[計数理解（図表の読み取り）](sections/keisu.md) | 次へ：[玉手箱との違い](tamatebako.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

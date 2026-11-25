@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[玉手箱との違い](tamatebako.md) · 次へ：[採点と結果の見方](scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[玉手箱との違い](tamatebako.md) · 次へ：[採点と結果の見方](scoring.md)
+<!-- /nav:top -->
 
 # 性格検査（OPQ）
 
@@ -43,4 +45,6 @@ SHLグループは、模擬テストを受けられる公式サイト（[SHL Dir
 
 ---
 
-<!-- nav:bottom -->← 前へ：[玉手箱との違い](tamatebako.md) | 次へ：[採点と結果の見方](scoring.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[玉手箱との違い](tamatebako.md) | 次へ：[採点と結果の見方](scoring.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

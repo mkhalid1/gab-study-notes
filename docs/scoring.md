@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[性格検査（OPQ）](personality-opq.md) · 次へ：[時間配分](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[性格検査（OPQ）](personality-opq.md) · 次へ：[時間配分](timing.md)
+<!-- /nav:top -->
 
 # 採点と結果の見方
 
@@ -62,4 +64,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[性格検査（OPQ）](personality-opq.md) | 次へ：[時間配分](timing.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[性格検査（OPQ）](personality-opq.md) | 次へ：[時間配分](timing.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

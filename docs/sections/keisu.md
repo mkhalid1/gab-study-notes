@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ：[言語理解（長文の論理判断）](gengo.md) · 次へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](../versions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ：[言語理解（長文の論理判断）](gengo.md) · 次へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](../versions.md)
+<!-- /nav:top -->
 
 # 計数理解（図表の読み取り）
 
@@ -129,4 +131,6 @@ A. 13.0％　B. 13.5％　C. 13.7％　D. 14.0％　E. 27.0％
 
 ---
 
-<!-- nav:bottom -->← 前へ：[言語理解（長文の論理判断）](gengo.md) | 次へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](../versions.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[言語理解（長文の論理判断）](gengo.md) | 次へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](../versions.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[採点と結果の見方](scoring.md) · 次へ：[学習プラン：7日間と2日間](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[採点と結果の見方](scoring.md) · 次へ：[学習プラン：7日間と2日間](study-plans.md)
+<!-- /nav:top -->
 
 # 時間配分
 
@@ -47,4 +49,6 @@ GABの能力検査は、1問にかけられる時間が短いテストです。�
 
 ---
 
-<!-- nav:bottom -->← 前へ：[採点と結果の見方](scoring.md) | 次へ：[学習プラン：7日間と2日間](study-plans.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[採点と結果の見方](scoring.md) | 次へ：[学習プラン：7日間と2日間](study-plans.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

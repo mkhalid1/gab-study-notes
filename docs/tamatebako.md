@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](versions.md) · 次へ：[性格検査（OPQ）](personality-opq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](versions.md) · 次へ：[性格検査（OPQ）](personality-opq.md)
+<!-- /nav:top -->
 
 # 玉手箱との違い
 
@@ -48,4 +50,6 @@ GABの計数は図表の読み取りです。玉手箱Ⅲの計数は、公式�
 
 ---
 
-<!-- nav:bottom -->← 前へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](versions.md) | 次へ：[性格検査（OPQ）](personality-opq.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[受検形式：WebGAB・C-GAB plus・紙のGAB](versions.md) | 次へ：[性格検査（OPQ）](personality-opq.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[README](../README.md) · 次へ：[10分診断テスト](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[README](../README.md) · 次へ：[10分診断テスト](diagnostic.md)
+<!-- /nav:top -->
 
 # GABとは：試験の全体像
 
@@ -63,4 +65,6 @@ GABの言語も計数も、問われているのは「与えられた情報か�
 
 ---
 
-<!-- nav:bottom -->← 前へ：[README](../README.md) | 次へ：[10分診断テスト](diagnostic.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[README](../README.md) | 次へ：[10分診断テスト](diagnostic.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[学習プラン：7日間と2日間](study-plans.md) · 次へ：[よくある質問](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[学習プラン：7日間と2日間](study-plans.md) · 次へ：[よくある質問](faq.md)
+<!-- /nav:top -->
 
 # 受検当日のチェックリスト
 
@@ -46,4 +48,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ：[学習プラン：7日間と2日間](study-plans.md) | 次へ：[よくある質問](faq.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[学習プラン：7日間と2日間](study-plans.md) | 次へ：[よくある質問](faq.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

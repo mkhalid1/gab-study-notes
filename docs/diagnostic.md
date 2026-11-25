@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ：[GABとは：試験の全体像](test-overview.md) · 次へ：[言語理解（長文の論理判断）](sections/gengo.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ：[GABとは：試験の全体像](test-overview.md) · 次へ：[言語理解（長文の論理判断）](sections/gengo.md)
+<!-- /nav:top -->
 
 # 10分診断テスト
 
@@ -75,4 +77,6 @@ A. 98％　B. 100％　C. 102％　D. 104％　E. 106％
 
 ---
 
-<!-- nav:bottom -->← 前へ：[GABとは：試験の全体像](test-overview.md) | 次へ：[言語理解（長文の論理判断）](sections/gengo.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[GABとは：試験の全体像](test-overview.md) | 次へ：[言語理解（長文の論理判断）](sections/gengo.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ：[10分診断テスト](../diagnostic.md) · 次へ：[計数理解（図表の読み取り）](keisu.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ：[10分診断テスト](../diagnostic.md) · 次へ：[計数理解（図表の読み取り）](keisu.md)
+<!-- /nav:top -->
 
 # 言語理解（長文の論理判断）
 
@@ -107,4 +109,6 @@ GABの言語でいちばん点を落とすのは、読むのが遅いことよ�
 
 ---
 
-<!-- nav:bottom -->← 前へ：[10分診断テスト](../diagnostic.md) | 次へ：[計数理解（図表の読み取り）](keisu.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ：[10分診断テスト](../diagnostic.md) | 次へ：[計数理解（図表の読み取り）](keisu.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->
