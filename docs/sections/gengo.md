@@ -91,7 +91,7 @@ GABの言語でいちばん点を落とすのは、読むのが遅いことよ�
 
 </details>
 
-もっと解きたい方へ：PrepClubsの[無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)は、言語52問・計数40問の計92問を60分で通して解くGAB形式の模試です。
+もっと解きたい方へ：PrepClubsの[無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)は、言語52問・計数40問の計92問を60分で通して解くGAB形式の模試です。
 
 ## 自己採点
 
@@ -105,7 +105,7 @@ GABの言語でいちばん点を落とすのは、読むのが遅いことよ�
 
 ## 次のステップ
 
-線引きが安定したら、時間を計って通しで解いてみてください。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)でまとまった量を解き、間違えた問題を上のミスしやすいポイントの一覧と照らし合わせると、自分の癖が見えてきます。
+線引きが安定したら、時間を計って通しで解いてみてください。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)でまとまった量を解き、間違えた問題を上のミスしやすいポイントの一覧と照らし合わせると、自分の癖が見えてきます。
 
 ---
 

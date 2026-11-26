@@ -113,7 +113,7 @@ A. 13.0％　B. 13.5％　C. 13.7％　D. 14.0％　E. 27.0％
 
 </details>
 
-もっと解きたい方へ：PrepClubsの[無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)は、言語52問・計数40問の計92問を60分で通して解くGAB形式の模試です。
+もっと解きたい方へ：PrepClubsの[無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)は、言語52問・計数40問の計92問を60分で通して解くGAB形式の模試です。
 
 ## 自己採点
 
@@ -127,7 +127,7 @@ A. 13.0％　B. 13.5％　C. 13.7％　D. 14.0％　E. 27.0％
 
 ## 次のステップ
 
-式を立てる手順が安定したら、時間を計って量をこなす段階です。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)で通しの練習をし、時間が足りなかった問題は[時間配分のページ](../timing.md)の方法で見直してください。
+式を立てる手順が安定したら、時間を計って量をこなす段階です。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)で通しの練習をし、時間が足りなかった問題は[時間配分のページ](../timing.md)の方法で見直してください。
 
 ---
 

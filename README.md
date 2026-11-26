@@ -2,7 +2,7 @@
 
 日本エス・エイチ・エルの総合適性検査GABの無料学習ガイドです。試験の仕組み、言語理解（長文の論理判断）と計数理解（図表の読み取り）の解き方、受検形式（WebGAB・C-GAB plus・紙のGAB）の違い、玉手箱との違い、性格検査（OPQ）、結果の見方、7日間と2日間の学習プランをまとめました。試験についての事実は日本SHLの公開ページだけを根拠にし、[出典](docs/sources.md)を明記しています。公式に公開されていない数字は、そうとわかるように書いています。
 
-まず実力を知りたい方は、[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)か、このリポジトリの短い[10分診断テスト](docs/diagnostic.md)から始めてください。
+まず実力を知りたい方は、[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)か、このリポジトリの短い[10分診断テスト](docs/diagnostic.md)から始めてください。
 
 ## はじめに
 
@@ -160,7 +160,7 @@
 - 答えは「解答と解説」の中に隠してあります。開く前に、自分の答えを決めてください。
 - 正解した問題の解説も読んでください。多くの解説には、近い選択肢がなぜ違うのかを書いてあります。
 - 間違いの記録をつけてください。書き方は[学習プラン](docs/study-plans.md#間違えた問題の見直し方)にあります。
-- 時間を計って練習してください。このガイドで学べるのは解き方です。ペースは、[PrepClubsの無料模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)のような通しの練習で身につきます。
+- 時間を計って練習してください。このガイドで学べるのは解き方です。ペースは、[PrepClubsの無料模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)のような通しの練習で身につきます。
 - 書き込み用に、クローンやフォークをしても構いません。GitBookのスペースとしても使える構成です（[SUMMARY.md](SUMMARY.md)）。
 
 ## 練習問題について

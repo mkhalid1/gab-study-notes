@@ -45,7 +45,7 @@ GABの能力検査は、1問にかけられる時間が短いテストです。�
 
 ## 時間を計って練習する
 
-ペースは、読んで理解するだけでは身につきません。時間を計って、通しで解く練習が必要です。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)は言語52問・計数40問の計92問を60分で解く構成なので、上の持ち時間の感覚をつかむのに使えます。
+ペースは、読んで理解するだけでは身につきません。時間を計って、通しで解く練習が必要です。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)は言語52問・計数40問の計92問を60分で解く構成なので、上の持ち時間の感覚をつかむのに使えます。
 
 ---
 

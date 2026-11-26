@@ -61,7 +61,7 @@ GABの言語も計数も、問われているのは「与えられた情報か�
 
 ## 時間を計って練習する
 
-形式に慣れたら、時間を計って通しで解いてみてください。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)は、言語52問・計数40問の計92問を60分で解く構成です。
+形式に慣れたら、時間を計って通しで解いてみてください。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)は、言語52問・計数40問の計92問を60分で解く構成です。
 
 ---
 

@@ -44,7 +44,7 @@
 
 ## 本番前の最後の練習
 
-前日までに、時間を計った通しの練習を少なくとも1回はしておくと、当日のペースがつかみやすくなります。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=gab)が使えます。
+前日までに、時間を計った通しの練習を少なくとも1回はしておくと、当日のペースがつかみやすくなります。[PrepClubsの無料GAB形式模試](https://prepclubs.com/ja/gab-taisaku?utm_source=github&utm_medium=referral&utm_campaign=99ayax&utm_content=gab)が使えます。
 
 ---
 
